@@ -31,9 +31,10 @@ function Hero() {
               </a>
               <a
                 href="https://drive.google.com/file/d/1nHAPPVrGkiN5BsqGw5g1j-2Vg9TzOh6C/view?usp=sharing"
+                target="_blank"
                 className="btn btn-outline-light btn-lg px-3 fw-semibold"
               >
-                Resume
+                View Resume
               </a>
             </div>
           </div>
