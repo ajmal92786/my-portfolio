@@ -30,7 +30,7 @@ function Hero() {
                 View My Work
               </a>
               <a
-                href="https://drive.google.com/file/d/16cXR-dddWLy8dXargO8WwkADTep3hWVe/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1nHAPPVrGkiN5BsqGw5g1j-2Vg9TzOh6C/view?usp=sharing"
                 className="btn btn-outline-light btn-lg px-3 fw-semibold"
               >
                 Resume
